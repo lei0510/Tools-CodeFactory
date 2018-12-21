@@ -1,0 +1,6 @@
+F:\Github\CodeFactory\代码生成器\SqlCodeFactory\bin\Debug\SqlCodeFactory.dll
+F:\Github\CodeFactory\代码生成器\SqlCodeFactory\bin\Debug\SqlCodeFactory.pdb
+F:\Github\CodeFactory\代码生成器\SqlCodeFactory\obj\Debug\SqlCodeFactory.csprojAssemblyReference.cache
+F:\Github\CodeFactory\代码生成器\SqlCodeFactory\obj\Debug\SqlCodeFactory.csproj.CoreCompileInputs.cache
+F:\Github\CodeFactory\代码生成器\SqlCodeFactory\obj\Debug\SqlCodeFactory.dll
+F:\Github\CodeFactory\代码生成器\SqlCodeFactory\obj\Debug\SqlCodeFactory.pdb
